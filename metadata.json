@@ -1,0 +1,6 @@
+{
+  "name": "Nudebody",
+  "description": "Студия эстетики тела и косметологии Nudebody в Горячем Ключе. Премиальные аппаратные методики коррекции фигуры, сфера-терапия, LPG, EMS и уход за лицом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
